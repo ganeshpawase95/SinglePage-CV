@@ -6,5 +6,6 @@ Key Points:
 3) How to Use: Clone the repository and open index.html to view the CV.
 4) Future Enhancements: CSS styling and interactivity.
 
+https://github.com/ganeshpawase95/SinglePage-CV
 
 <a href="https://singlepagecv.w3spaces.com/">Link</a>
